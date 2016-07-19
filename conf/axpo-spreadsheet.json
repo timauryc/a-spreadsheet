@@ -1,0 +1,13 @@
+{
+    "PORT": 3000,
+    "LOG": {
+        "LEVEL": "info",
+        "FILENAME": "general-file"
+    },
+    "POSTGRE":{
+    	"connectionString": "",
+    	"connectionStringA": "",
+    	"connectionStringB": "",
+    	"tablename": ""
+    }
+}

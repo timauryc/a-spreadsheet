@@ -1,0 +1,17 @@
+CONTENTS OF THIS FILE
+---------------------
+   
+ * Introduction
+ * Maintainers
+
+
+ INTRODUCTION
+------------
+
+The main objective of axpo-spreadsheet is to serve as mapping service for the info saved on axpo .xlms spreadsheets into petabase database (sap_dunning table)
+
+MAINTAINERS
+-----------
+
+Current maintainers:
+ * Carlos Timaury - timauryc@gmail.com

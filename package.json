@@ -1,0 +1,26 @@
+{
+  "name": "axpo",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "async": "^1.5.2",
+    "body-parser": "^1.15.1",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "json-sql": "^0.3.7",
+    "mongodb": "^2.1.7",
+    "nconf": "^0.8.4",
+    "node-schedule": "^1.1.0",
+    "pg": "^4.5.1",
+    "properties-reader": "0.0.15",
+    "request": "^2.69.0",
+    "winston": "^2.2.0",
+    "xlsx": "^0.8.0"
+  }
+}
