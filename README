@@ -8,7 +8,7 @@ CONTENTS OF THIS FILE
  INTRODUCTION
 ------------
 
-The main objective of axpo-spreadsheet is to serve as mapping service for the info saved on axpo .xlms spreadsheets into petabase database (sap_dunning table)
+The main objective of a-spreadsheet is to serve as mapping service for the info saved on axpo .xlms spreadsheets into the database.
 
 MAINTAINERS
 -----------
